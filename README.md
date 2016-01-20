@@ -1,6 +1,5 @@
 # Skin.foundation
-**Hitcher's Foundation Skin  **
-
+#####Hitcher's Foundation Skin  
 The 'Screenshots' folder contains images of all the various windows/dialogs used in XBMC and are labelled the same as their relevant XML.
 
 **To make use of the Debug Grid and Info add this to your Keymap.xml (or create a new one in the USERDATA/Keymaps folder)**
